@@ -22,6 +22,7 @@ let questions=[
   A: ' Yashoda',
   B: ' Devki',
   C: ' Rukmani',
+  D:' Satyabhama ',
   ans:'A',
 },
 {
@@ -30,6 +31,7 @@ let questions=[
   A: ' He was the father of Krishna',
   B: ' He was the brother of Krishna',
   C: ' He was the maternal uncle of Krishna',
+  D:' None of the above ',
   ans: 'C',
 },
 {
@@ -38,6 +40,7 @@ let questions=[
   A:' Radha',
   B:' Rukmini',
   C:' Satyabhama',
+  D:' Jambavati',
   ans:'A',
 },
 {
@@ -46,6 +49,7 @@ let questions=[
   A:' Rukmini',
   B:' Radha',
   C:' Jambavati',
+  D:' Bhadra',
   ans:'A',
 },
 {
@@ -54,6 +58,7 @@ let questions=[
   A:' Yudhisthir',
   B:' Balaram',
   C:' Sudama',
+  D:' Krishna',
   ans:'C',
 },
 ];
